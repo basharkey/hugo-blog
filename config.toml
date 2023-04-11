@@ -1,4 +1,4 @@
 baseURL = 'https://blog.bashd.link'
 languageCode = 'en-us'
 title = 'Bashd Blog'
-theme = "hugo-theme-techdoc"
+theme = "hugo-book"
