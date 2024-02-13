@@ -1,8 +1,8 @@
 ---
 title: Breaking into Cyber Security
-date: 2024-02-11
 ---
 # Breaking into Cyber Security
+February 11, 2024
 
 ## Who is this for?
 The goal of this article is to give people with little or no technical knowledge a guide to breaking into the technical side of cyber security. I often come across people that are interested in joining the field whether it be folks with existing non-technical cybersec jobs, those looking to start a new career path, or people who want to just "pop shells" (more on this later). I've met quite a few folks that are interested in how they can start their cybersec journey.
